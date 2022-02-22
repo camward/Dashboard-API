@@ -2,6 +2,10 @@
 
 .idea
 
+# ORM
+/prisma/dev.db
+/prisma/dev.db-journal
+
 # dependencies
 /node_modules
 /.pnp
